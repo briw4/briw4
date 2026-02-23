@@ -1,7 +1,7 @@
 
 # Hi, I'm briwa
 
-###Developer · Builder · Open Source Enthusiast
+##Developer · Builder · Open Source Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=briw4&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/briw4)
 [![GitHub followers](https://img.shields.io/github/followers/briw4?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/briw4?tab=followers)
