@@ -1,12 +1,3 @@
-<div align="center">
-```
-██████╗ ██████╗ ██╗██╗    ██╗ █████╗ 
-██╔══██╗██╔══██╗██║██║    ██║██╔══██╗
-██████╔╝██████╔╝██║██║ █╗ ██║███████║
-██╔══██╗██╔══██╗██║██║███╗██║██╔══██║
-██████╔╝██║  ██║██║╚███╔███╔╝██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
-```
 
 # Hi 👋, I'm briwa
 
@@ -43,16 +34,6 @@
 ## 🔥 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=briw4&bg_color=0d1117&color=58a6ff&line=facc15&point=58a6ff&area=true&hide_border=true&area_color=1f3a5f)](https://github.com/briw4)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=briw4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/briw4)
 
 </div>
 
