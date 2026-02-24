@@ -1,18 +1,13 @@
 
-# Hi, I'm briwa
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=briw4&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/briw4)
-[![GitHub followers](https://img.shields.io/github/followers/briw4?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/briw4?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/briw4?style=flat-square&color=facc15&labelColor=0d1117)](https://github.com/briw4)
+# Hi, I'm briw4
+A computer engineering student with a strong interest in software development, networking, and cybersecurity. I enjoy building applications while thinking about how they interact with networks and how they can be secured. Whether I’m developing software, analyzing network traffic, or experimenting with security tools, my goal is to understand systems as a whole and how their different components work together.
 
 </div>
 
----
 
 <div align="center">
 
-##GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=briw4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=facc15&text_color=c9d1d9&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=briw4&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=facc15&fire=facc15&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="49%" />
@@ -26,21 +21,17 @@
 
 </div>
 
----
-
 <div align="center">
 
-##Contribution Graph
+## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=briw4&bg_color=0d1117&color=58a6ff&line=facc15&point=58a6ff&area=true&hide_border=true&area_color=1f3a5f)](https://github.com/briw4)
 
 </div>
 
----
-
 <div align="center">
 
-##Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -59,28 +50,12 @@
 
 </div>
 
----
-
 <div align="center">
 
-##Profile Summary
-
-[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briw4&theme=tokyonight)](https://github.com/briw4)
-
-</div>
-
----
-
-<div align="center">
-
-##Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/briw4/briw4/output/github-contribution-grid-snake-dark.svg)
 
----
-
 *⭐ Star my repos if you find them useful!*
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
