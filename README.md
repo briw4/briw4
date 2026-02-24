@@ -8,16 +8,7 @@ A computer engineering student with a strong interest in software development, n
 <div align="center">
 
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=briw4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=facc15&text_color=c9d1d9&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=briw4&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=facc15&fire=facc15&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briw4&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="36%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=briw4&theme=tokyonight&utcOffset=1" width="36%" />
 
 </div>
 
