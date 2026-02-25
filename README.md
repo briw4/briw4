@@ -19,7 +19,7 @@ A computer engineering student with a strong interest in software development, n
 <div align="center"> 
 ## Curriculum Vitae
   
-[Download my CV](./CV_Maroia_BAANI.pdf)
+[Download my CV](./CV.pdf)
 
 </div>
 ## Contribution Graph
