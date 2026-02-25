@@ -17,11 +17,15 @@ A computer engineering student with a strong interest in software development, n
 
 
 <div align="center"> 
+  
 ## Curriculum Vitae
   
 [Download my CV](./CV.pdf)
 
 </div>
+
+<div align="center"> 
+  
 ## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=briw4&bg_color=0d1117&color=58a6ff&line=facc15&point=58a6ff&area=true&hide_border=true&area_color=1f3a5f)](https://github.com/briw4)
