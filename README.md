@@ -18,7 +18,9 @@ A computer engineering student with a strong interest in software development, n
 
 <div align="center"> 
 ## Curriculum Vitae
-[Télécharger mon CV (PDF)](./CV.pdf)
+  
+![Télécharger mon CV](https://raw.githubusercontent.com/briw4/briw4/CV.pdf)
+
 </div>
 ## Contribution Graph
 
