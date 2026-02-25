@@ -19,7 +19,7 @@ A computer engineering student with a strong interest in software development, n
 <div align="center"> 
 ## Curriculum Vitae
   
-![Télécharger mon CV](https://raw.githubusercontent.com/briw4/briw4/CV.pdf)
+[Download my CV](./CV_Maroia_BAANI.pdf)
 
 </div>
 ## Contribution Graph
