@@ -12,18 +12,6 @@ A computer engineering student with a strong interest in software development, n
 
 </div>
 
-<div align="center">
-</div>
-
-
-<div align="center"> 
-  
-## Curriculum Vitae
-  
-[Download my CV](./CV.pdf)
-
-</div>
-
 <div align="center"> 
   
 ## Contribution Graph
